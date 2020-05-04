@@ -1,0 +1,378 @@
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "82dad0952b2ac872ec4c202a364b3c48a39396ff"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "a5df76c2aa6c6d89a416e7fe84ca8475ed12ea5e7aa3f8fef467418b56365232"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "powerpc64le"
+git-tree-sha1 = "197d7c4cb2bede2d0fff8f95df23754c97d71684"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "9ce0c122ff9fb3a46bac27750e06e15dd23f7e5df4ff37dd096b9a7670c612e0"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "powerpc64le"
+git-tree-sha1 = "1824e316f2e5523a838f752430bba4181d41af09"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "57e70384905a22e8974c36d8a57b0e06092201d4995b51e0451897c9482704c5"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "powerpc64le"
+git-tree-sha1 = "750704a0d6d5bf3856137c409e60d144569d3961"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "25ec165da7952af9dc7114876b329c68830c4056f74c2aa7ae2ecd167532d761"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "armv7l"
+git-tree-sha1 = "582da52aaa9f507623a02b1a2d76b79aee4b25b6"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "97bc693cf9cc311ea5c0e81a480e4b615f4d2c70ccd525c5ec0d65ff864c9a08"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "dc63a9f3c685a54ba67740c498a05ab6fb06c1aa"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "6f47239c32dfc0c558b03ac2a706fa989eac658c2a712a7feb970c7b92857f9e"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "i686"
+git-tree-sha1 = "6341fe30017cab46071053fb193e16f1efa43d4c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "8989fd6a1d2b9cfdbda4b1f4d4a5d699444466db9479715fe1826a9b70eabb41"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.i686-linux-musl-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "c39d4391348a188d69b9b0e11b82b24fc4130ed0"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[NL2sol.download]]
+    sha256 = "c0df3373786891c07395acce81983938b870dbd26ee980acc3ccb8ca085301f5"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "armv7l"
+git-tree-sha1 = "6fa4cd574ca9438addbfa3402d0974c572ca3a45"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "34b1963768ec93d372d80ac8cad70a7d0354482442adf7ac3efde1f38170f82c"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "c17c6487459120be50463669965be8a7546d6e2d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "664130a506a5e255616a87dbb494b466e08b90c09ec14b3dcdd8a59bf69ba2ed"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "aarch64"
+git-tree-sha1 = "c7ee50fb3ab153a4ab3ced9597bdcb07640fd0e2"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "1fbdce43975b6ac090521cd764c46eba25c7cd4c39923752c7e45f5f23954dd8"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "ea6baed25cf852888378175de22277e5b390b825"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[NL2sol.download]]
+    sha256 = "d459c9102e322a941bc3c7d6c45282c9bc04d278813f38b4a3eef6952861e92c"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "armv7l"
+git-tree-sha1 = "b0df28a4b6fb422f903a94101b858a86350fb4cd"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "beb9c0be1862b5678e9962778866cf9eef3e21725bd490b846a0de8d2e5571f6"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "i686"
+git-tree-sha1 = "b4bae6520e850e1c13bb2c81fc82238c32ea316c"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "ec9b6e5fe68c642462c92b54ffb94a918349aea2faadddac631d98b8e56c5159"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.i686-linux-musl-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "aarch64"
+git-tree-sha1 = "f2a2e8b717501393d2d100e975da2358e82c93b3"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "2560d6106c4838d2c09335e74d4f076e6bec1acd774d66de1958aa0c84356cb5"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "049be30e4330ee299c3a7670e97796079e793ebd"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[NL2sol.download]]
+    sha256 = "62a4c009f2487ba0d5e800ae3e8f15ec97721a5e8cbb19a897a66bf1a7174c80"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "aarch64"
+git-tree-sha1 = "411edfc9bb2dbc5a8116bc7a0fe3c592ecff9e30"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "4dd8dbea6e201e521e41b776e02df8c392a49b1c9dc4fe5a76dc398d4a1f30e1"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "armv7l"
+git-tree-sha1 = "677f7eea9187512ab48e0c78948a03aad790ca6b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "87c975dae2c4f4280b711cba96381534140bfa1b488ad96cbb61809d7b6b4433"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "i686"
+git-tree-sha1 = "4bd3451c1f2eaba5f55548307848d0cdac0d5e04"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "4829b199bd5a93b33e9f6d37941bb0067214ce27ebed249fc55d9c3e2837fc09"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "b1c5b5016f12bbc21161cde1dce57e2b180632eb"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[NL2sol.download]]
+    sha256 = "1ddaf784e97592b15b079fdab755565445af9f0bbaf15bc0a820196744d0cfdf"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "i686"
+git-tree-sha1 = "48c1ddd415deee62e074b83c463f288d1761a48f"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[NL2sol.download]]
+    sha256 = "6b20d5493cbd0a2f5a1b086a7e7645eaa320582077f7d8d947ef5b9ce561b189"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "002ffcc5e54abab386f841ee72184b8c0b2b4e64"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[NL2sol.download]]
+    sha256 = "e6abbfe90a765831e37d958edaee38a3c829b4d9e31d02ffa1a8468a42a4652c"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "a762d4e099373acf51cec5331dddecb5e8884562"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[NL2sol.download]]
+    sha256 = "dc2d833bf9d8100626bebd5773e06c73efae813320bb04072924ac66ccb050e2"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "a6e3ebdb3f117aff5c1a77dcd2966d86150d63dc"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "91ee39afbaf4105a72f475c54caa4f423369e0d185b570e228b61e048771aac2"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "i686"
+git-tree-sha1 = "8d15a79bf85b00cbf214dcf6a6ac97e9244677bf"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "6255e3caf04a33fd01aa22d85968a60c17db7121f340501fc4aba61f00dea3cd"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "aarch64"
+git-tree-sha1 = "fa12360866ac5160ff79de28a5c55a4f359d570d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "c37a2f7a56b6ad8f49dcb1a275419a7e1b4fbcb5d9ab47a36fe8b1412287544e"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "2e6f2a56e3e3ed9d4efa65ba3572d57ce5018f86"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[NL2sol.download]]
+    sha256 = "7495be3a346ff7c6086414e80de2a617723317a96bb59ff409414cd0d8c0953e"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "44f9eb216604849e0e7ca4fad461c84885dc81ac"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[NL2sol.download]]
+    sha256 = "4d375cb955d3e37686506aca60e97d8ca49beb042ce5d7325cf90a6396c0a5e2"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "aarch64"
+git-tree-sha1 = "abd79d19d903c6eab03fa7d00efdb6d16ee8ba1b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "04c74b574f003ea56e3adae9eb9e974f52b89d6b535d426735bd3d6794554515"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "i686"
+git-tree-sha1 = "ef1238beac754a12324959a92c02b1df4bb1f45d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "a395597835fbd26caba651eb0086900c662a6af80b620772bf595ddd7f231ef5"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "i686"
+git-tree-sha1 = "d66f605ed17a391f18e57ea31b0a1c0a0cbb3f3e"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[NL2sol.download]]
+    sha256 = "a192afb90f0a120c1072dceab4e748b634b0a1ed0713c1cb915dcf633be69060"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "aarch64"
+git-tree-sha1 = "db7950a4b179d8f727ff53495e3139d7ddd91e6c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "ffc8dce43d72b107a1dce05ecbd103aa49596691be357cab2fb1cb8a891fd065"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "i686"
+git-tree-sha1 = "d5f320c1c99cf5ed5e6f5048b9d6f0acb95da82a"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "7e8dc68c3032de2aa3545b99edd36605f731ee463ba19729708c836ef46b06ea"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.i686-linux-musl-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "7b4f66a3f2089e0b1ebd5a93a7c136dfaaa67845"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "151d8cb960341dd43be8f2a8e4a0c6cea7332b5cd17068f967962e8236c1d38c"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "i686"
+git-tree-sha1 = "3d6a47943e574cd3da40367f017f8b4e003182b7"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[NL2sol.download]]
+    sha256 = "bec5119a3dfd9d5e82a9a53ea69153371e5af74750d625ca998b613a90169558"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[NL2sol]]
+arch = "armv7l"
+git-tree-sha1 = "3f6768e2069911010e7adab19c75265340881626"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "1b2aa5f72b9ec23a700b8ba21c4d9b4f8cf9eb349b9098308a7643c1fc7240b5"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "f54f63dd9f460595a264cf1f32c8e2ccde693490"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "b428da687781efc9929c5fc8a509bac240b2085ebe6a01855353fdaabf8f3077"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[NL2sol]]
+arch = "armv7l"
+git-tree-sha1 = "c0d3e3bb814e6e5bf627f1cf3beef466ec9efe1a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NL2sol.download]]
+    sha256 = "89a6540e994518639a387709937f9550dc0981c5c4277e2afb61f58275cf4d94"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[NL2sol]]
+arch = "x86_64"
+git-tree-sha1 = "f4f08cf5ca0d0d27fc6cbf92d94c1da85bf639b0"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[NL2sol.download]]
+    sha256 = "bbb3a2cbedb8566e03061f15d59b0b2266f882a9887f2cfbd58a84663182454e"
+    url = "https://github.com/JuliaBinaryWrappers/NL2sol_jll.jl/releases/download/NL2sol-v2.2.0+0/NL2sol.v2.2.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
